@@ -1,77 +1,88 @@
-📊 Sales Data Analysis Dashboard (Excel Project)
-🚀 Project Overview
+# 📊 Sales Data Analysis Dashboard (Excel Project)
 
-This project is an interactive Sales Dashboard built using Microsoft Excel to analyze and visualize business performance. It helps in understanding key metrics such as sales, profit, customer trends, and product performance in a simple and effective way.
+## 🚀 Project Overview
+This project is an interactive **Sales Dashboard built using Microsoft Excel** to analyze and visualize business performance. It helps in understanding key metrics such as sales, profit, customer trends, and product performance in a simple and effective way.
 
-🎯 Objectives
-Analyze overall business performance
-Track key performance indicators (KPIs)
-Identify top-performing products and cities
-Monitor monthly sales trends
-Provide insights for better decision-making
+---
 
-📊 Key Features
+## 🎯 Objectives
+- Analyze overall business performance  
+- Track key performance indicators (KPIs)  
+- Identify top-performing products and cities  
+- Monitor monthly sales trends  
+- Provide insights for better decision-making  
 
-📌 KPI Cards:
-Total Sales
-Total Profit
-Total Orders
-Profit Margin (%)
+---
 
-📈 Visualizations:
+## 📊 Key Features
+- 📌 KPI Cards:
+  - Total Sales  
+  - Total Profit  
+  - Total Orders  
+  - Profit Margin (%)  
 
-Monthly Sales Trend (Line Chart)
-Sales by City (Bar Chart)
-Sales by Category (Column Chart)
-Top 5 Products Analysis
-Profit Distribution (Pie Chart)
+- 📈 Visualizations:
+  - Monthly Sales Trend (Line Chart)  
+  - Sales by City (Bar Chart)  
+  - Sales by Category (Column Chart)  
+  - Top 5 Products Analysis  
+  - Profit Distribution (Pie Chart)  
 
-🎛️ Interactivity:
+- 🎛️ Interactivity:
+  - Slicers for City, Category, and Date  
+  - Dynamic filtering across all charts  
 
-Slicers for City, Category, and Date
-Dynamic filtering across all charts
+---
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers  
+- Formulas (SUM, COUNTA, etc.)  
+- Data Visualization Techniques  
 
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Formulas (SUM, COUNTA, etc.)
-Data Visualization Techniques
+---
 
-📂 Project Structure
+## 📂 Project Structure
+- Raw_Data → Original dataset (2000+ rows)  
+- Dashboard_Data → KPI calculations  
+- Pivot_Analysis → Pivot tables & charts  
+- Dashboard → Final interactive dashboard  
 
-Raw_Data → Original dataset (2000+ rows)
-Dashboard_Data → KPI calculations
-Pivot_Analysis → Pivot tables & charts
-Dashboard → Final interactive dashboard
+---
 
-💡 Insights Generated
+## 💡 Insights Generated
+- Identified top-performing cities and products  
+- Analyzed monthly sales growth patterns  
+- Compared category-wise performance  
+- Evaluated overall business profitability  
 
-Identified top-performing cities and products
-Analyzed monthly sales growth patterns
-Compared category-wise performance
-Evaluated overall business profitability
+---
 
-🎨 Dashboard Highlights
+## 🎨 Dashboard Highlights
+- Clean and interactive design  
+- User-friendly layout  
+- Real-time filtering using slicers  
+- Professional KPI cards  
 
-Clean and interactive design
-User-friendly layout
-Real-time filtering using slicers
-Professional KPI cards
+---
 
-📌 Conclusion
+## 📌 Conclusion
+This project demonstrates how Excel can be used as a powerful tool for **data analysis and business intelligence**, even without advanced software.
 
-This project demonstrates how Excel can be used as a powerful tool for data analysis and business intelligence, even without advanced software.
+---
 
-🙌 Author
+## 🙌 Author
+**Parikshit Mandal**  
+Aspiring Data Analyst | BCA Student  
 
-Parikshit Mandal
-Aspiring Data Analyst | BCA Student
+---
 
-🔗 Connect with Me
-LinkedIn: https://www.linkedin.com/in/parikshit-mandal-analyst
-⭐ Feedback
+## 🔗 Connect with Me
+- LinkedIn: (https://www.linkedin.com/in/parikshit-mandal-analyst)
 
+---
+
+## ⭐ Feedback
 I would love to hear your feedback and suggestions to improve this project!
